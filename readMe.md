@@ -1,5 +1,19 @@
-# Responsive Food Delivery Website with HTML, CSS & JavaScript
+# Food Delivery Responsive Web Design
 
-![Responsive Food Delivery Website with HTML, CSS and JavaScript](https://raw.githubusercontent.com/wpcodevo/lc26-food-delivery-website/setup/restaurant%20food%20website.jpg "Responsive Food Delivery Website with HTML, CSS and JavaScript")
+![Project Preview](link-to-your-project-preview-image.jpg)
 
-The Figma file of the Responsive Food Delivery Website can be found on my [website](https://codevoweb.com/lc26-build-food-ordering-website-html-css-javascript)
+## Description
+
+This project is a responsive web design for a food delivery website. It is built using HTML and CSS, showcasing various food items and providing a user-friendly experience on different screen sizes.
+
+## Demo
+
+You can view a live demo of the project [here](link-to-live-demo).
+
+## Features
+
+- Responsive design for optimal viewing on various devices.
+- Showcase of different food items with appealing visuals.
+- User-friendly navigation and layout.
+
+
